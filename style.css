@@ -1,0 +1,105 @@
+body {
+  background-color: #0a0a0a;
+  color: white;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.header {
+  padding: 20px;
+}
+
+.brand {
+  font-size: 2.5em;
+  color: #00d9ff;
+}
+
+.card {
+  border: 2px solid #00d9ff;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 10px;
+  background-color: #00d9ff;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.card a:hover {
+  background-color: #00b8d4;
+}
+
+.highlight-box {
+  background-color: yellow;
+  color: black;
+  margin: 30px 20px 10px;
+  padding: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.promo-box {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.promo-box h3 {
+  margin-top: 0;
+}
+
+.wa-green-btn {
+  background-color: #25D366;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 12px;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+table {
+  width: 90%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  margin-top: 20px;
+  color: white;
+}
+
+th, td {
+  border-bottom: 1px solid #666;
+  padding: 12px;
+  text-align: center;
+}
+
+.wa-btn {
+  background-color: #00d9ff;
+  color: black;
+  padding: 6px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 40px;
+  padding-bottom: 20px;
+  font-size: 0.9em;
+  color: grey;
+}
